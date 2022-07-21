@@ -1,0 +1,18 @@
+
+#p1{
+    padding: 20px;
+    font-size: 30px;
+    margin: auto;
+    background-color: #7A9D96;
+}
+#ins{
+    color: #00303F;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
+}
+#para{
+    color: black;
+    padding: 20px;
+    font-size: 30px;
+}

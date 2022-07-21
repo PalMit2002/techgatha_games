@@ -1,0 +1,21 @@
+canvas {
+    border: 1px solid #d3d3d3;
+    background-color: #f1f1f1;
+    position: absolute;
+}
+#canvas{
+    width: 480;
+    height: 270;
+    position: relative;
+    background: url("back.jpg");
+    background-size: contain;
+}
+#pl{
+    position: absolute;
+    left: 45%;
+    top: 45%;
+    background-color: #88bce6;
+    border: 0;
+    padding: 3px;
+    font-size: 20px;
+}

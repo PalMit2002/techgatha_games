@@ -1,0 +1,25 @@
+#cont{
+    padding: 10px;
+    background-color: #00303F;
+}
+a{
+    color: #DCAE1D;
+    text-decoration: none;
+}
+#hang{  
+    display: inline;
+    color: #DCAE1D;
+    font-size: 54px;
+    padding-left: 30px;
+}
+#play{  
+    display: inline;
+    color: #FC4A1A;
+    float: right;
+    font-size: 54px;
+    padding-right: 30px;
+}
+body{
+    background-color: #CAE4DB;
+    margin: 0;
+}
